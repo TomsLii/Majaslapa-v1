@@ -1,0 +1,132 @@
+.welcome{
+    width: 800px;
+    background-color: azure;
+}
+.welcome>p{
+    text-align: right;
+    padding: 20px;
+    font-size: 18px;
+    color: brown;
+    text-transform: uppercase;
+}
+.covid{
+    width: 300px;
+    background-color: skyblue;
+    float: left;
+    font-family: Centaur, serif;
+}
+.covid>p>g{
+    text-transform: uppercase;
+    color: red;
+    font-family: "Franklin Gothic Heavy", serif;
+
+}
+.covid>p{
+    padding: 5px;
+}
+.baneris{
+    width: 500px;
+    float: left;
+    position: relative;
+}
+.footer{
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: "Franklin Gothic Heavy", serif;
+    float: left;
+    background-color: azure;
+}
+.footer>p{
+    position: relative;
+    padding: 20px;
+    background-color: azure;
+}
+.mainbox {
+    background-color:white;
+    width: 800px;
+    margin: 0 auto;
+}
+.menu{
+    background-color: dodgerblue;
+    height: 37px;
+    text-align: right;
+}
+.active{
+    text-transform: uppercase;
+    font-family: Tahoma, serif;
+    font-size: 14px;
+}
+.menu>ul>li{
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    top: 8px;
+}
+.menu>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.apaksizvelne{
+    width: 200px;
+    float: left;
+    text-transform: uppercase;
+    position: relative;
+    padding: 10px;
+    top: 20px;
+}
+.apaksizvelne>a{
+    text-decoration: none;
+    color: black ;
+    display: block;
+}
+.apaksizvelne1{
+    width: 800px;
+    text-transform: uppercase;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.apaksizvelne1>a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+.fotomain{
+    background-color: white;
+    width: 550px;
+    float: left;
+    position: relative;
+    top: 10px;
+}
+
+
+.video{
+    position: relative;
+    top: 20px;
+
+    float: left;
+}
+.Kont2{
+    width: 400px;
+    float: left;
+}
+.Kont2>p{
+    position: relative;
+    padding: 20px 20px 20px 20px;
+    top: 10px;
+}
+.mape{
+    width: 400px;
+    position: relative;
+    float: left;
+    top: 10px;
+    text-align: center;
+}
+.forma{
+    width: 800px;
+    position: relative;
+    float: left;
+    padding: 20px 20px 20px 20px;
+}

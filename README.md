@@ -13,8 +13,9 @@
 </ul>
 
 <h2><strong>Programmas instalācija</strong></h2>
-<p>PHP var instalēt sekojošajā mājaslapā: https://www.jetbrains.com/phpstorm/</p>
-<p>Lai instalētu Lightbox spraudni, ir nepieciešams ievietot tā pirmskodu PHP mājaslapai.</p>
+<p><h3>PHP var instalēt sekojošajā mājaslapā: https://www.jetbrains.com/phpstorm/</h3></p>
+<p><h3>Lai instalētu Lightbox, ir nepieciešams instalēt un ievietot tā pirmskodu PHP mājaslapai:</h3></p>
+<p>https://lokeshdhakar.com/projects/lightbox2/</p>
 
 <h2><strong>Programmas pielietojums</strong></h2>
 <p>PHP izmanto, lai izveidotu mājaslapas front-end.</p>
